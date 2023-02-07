@@ -43,9 +43,7 @@
           console.log(ground.x);
 
      
-          if (keyDown("space") && trex.y >= 100) {
-            trex.velocityY = - 10;
-          }
+ // melhore a condicional 
 
 
 
